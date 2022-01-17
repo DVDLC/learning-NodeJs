@@ -1,0 +1,16 @@
+{
+  "name": "03-basesdenode",
+  "version": "0.0.1",
+  "description": "It is a simple multiplicacion table to txt file using fs and process ",
+  "main": "02-fileSystem.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base3": "node 03-process.js --base=3"
+  },
+  "author": "DavidLC",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.3.1"
+  }
+}
