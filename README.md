@@ -11,3 +11,16 @@ The section focuses on the following topics:
 6. Yargs
 7. Receive parameters by command line
 8. Colors for the console
+
+# Option 
+
+```
+     --help     Muestra ayuda                                        [booleano]
+      --version  Muestra número de versión                            [booleano]
+  -b, --base     It is the base of multiplication.          [número] [requerido]
+  -l, --list     Show the multiplication table in the console
+                                                     [booleano] [defecto: false]
+  -u, --until    Returns the limit of the multiplication
+                                            [cadena de caracteres] [defecto: 10]
+
+```
