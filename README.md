@@ -1,5 +1,4 @@
-
-#This section I'm focuse to learn this following topics:
+This section I'm focuse to learn this following topics:
 
 1. Require information from other files
 2. Require packages
@@ -12,7 +11,7 @@
 7. Receive parameters by command line
 8. Colors for the console
 
-# Option 
+# Options
 
 ```
      --help     Muestra ayuda                                        [booleano]
