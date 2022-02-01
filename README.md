@@ -1,5 +1,5 @@
-# Section Topics:
-The section focuses on the following topics:
+
+#This section I'm focuse to learn this following topics:
 
 1. Require information from other files
 2. Require packages
